@@ -5,8 +5,8 @@ spring:
 #data source
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: sanu1234
+    username: sandu
+    password: 1234
     url: jdbc:mysql://localhost:3306/OrderManage?createDatabaseIfNotExist=true
 
 #Jpa
