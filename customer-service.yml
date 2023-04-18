@@ -1,8 +1,8 @@
 #this is for datasource
 spring:
   datasource:
-    username: root
-    password: sanu1234
+    username: sandu
+    password: 1234
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/CustomerManage?createDatabaseIfNotExist=true
 #this is for application name
